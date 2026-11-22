@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este circuito permite controlar la salida hacia un display de 7 segmentos con 4 bits de entrada
 
 ## How to test
 
-Explain how to use your project
+los 4 bits de entrada controlan el numero mostrado en el display mediante secuencia binaria
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display de 7 segmentos de catodo común
